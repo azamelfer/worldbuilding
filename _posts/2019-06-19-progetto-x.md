@@ -1,5 +1,5 @@
 ---
 title: Progetto X
 ---
-
-![Worldpainting](/img/worldpainting.jpg "Worldpainting")
+![Image of Worldpainting]
+(https://azamelworlds.github.io/worldbuilding/img/worldpainting.jpg)
