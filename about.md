@@ -1,21 +1,11 @@
 ---
 layout: page
-title: About Us
+title: About Me
 ---
-## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+## Chi sono?
+Non rivelerò il mio nome, la mia età, il mio lavoro, ma la mia passione. Sono un ragazzo che ama svariate cose, ma sopra tutte queste cose amo la libertà, da intendere come l'essere libero da... da tutto ciò che, detto brevemente, stressa. Per questo ogni tanto voglio rifugiarmi, nei mondi e nelle storie che creo. Se ti imbatti sulla mia pagina, benvenuto. Siediti e dai un'occhiata in giro.
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+![Image on reading](https://images.unsplash.com/photo-1524494860062-9442631ee30e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=752&q=80)
 
-![Emerald](img/Emerald01.png "Emerald")
-
-### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
-
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
-
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root.
-
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
-
-Enjoy!
+### Piccola nota
+Non sono uno scrittore, vorrei esserlo, per lo meno vorrei averne il talento. Ma non l'ho. Quindi il mio è solo un sogno, come tutto quello che immagino. Non mi interessa ricevere consigli o altro, perché non ho come obbiettivo quello di migliorare, ma il divertirmi. Perciò potrebbero esserci errori, e sia.
