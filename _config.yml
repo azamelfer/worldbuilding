@@ -1,11 +1,11 @@
 # Site settings
 title: Worldbuilding | A simple worldbuilding journey
 description: "Un viaggio nella mia personale wiki sui miei mondi."
-url: "http://www.jacoporabolini.com/emerald"
+url: "http://www.worldbuilding.it"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Alessandro Ferrarii"
+  email: "thebushidobro@gmail.com"
+  url: "http://www.worldbuilding.it"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
