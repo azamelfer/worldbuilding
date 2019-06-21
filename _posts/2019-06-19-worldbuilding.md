@@ -1,5 +1,5 @@
 ---
-title: Progetto X
+title: Worldbuilding: Perché è utile?
 ---
 ![Image of Worldpainting](https://azamelworlds.github.io/worldbuilding/img/worldpainting.jpg)
 
