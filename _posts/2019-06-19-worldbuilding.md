@@ -3,7 +3,7 @@ title: Worldbuilding: a cosa serve
 ---
 ![Image of Worldpainting](https://azamelworlds.github.io/worldbuilding/img/worldpainting.jpg)
 
-Vi siete mai trovati a scrivere una storia? E di esservi bloccati dopo poche righe? Bene. O meglio, è un problema.
+Vi siete mai trovati a scrivere una storia? O bloccati dopo poche righe? Bene. O meglio, è un problema.
 
 Che voi siate neofiti o scrittori già alle seconde o terze armi sapete bene, presumo, che è molto semplice perdersi durante la scrittura (vedremo che è facile anche durante il processo di worldbuilding, ma pazienza, padawan, ci arriviamo), mentre cercate di capire dove sia diretta la storia, quali siano i personaggi da incontrare, gli oggetti mistici da ricercare, anche semplicemente le anguste bettole in cui il vostro protagonista andrà a cacciarsi durante l'avventura. Ma perché?
 
