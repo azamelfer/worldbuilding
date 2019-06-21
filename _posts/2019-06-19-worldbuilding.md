@@ -1,5 +1,5 @@
 ---
-title: Worldbuilding: Perché è utile?
+title: Worldbuilding
 ---
 ![Image of Worldpainting](https://azamelworlds.github.io/worldbuilding/img/worldpainting.jpg)
 
